@@ -15,14 +15,8 @@
   ],
   "usersAmount": 3,
   "roles": [
-    {
-      "rolename": "admin"
-    },
-    {
-      "rolename": "guest"
-    },
-    {
-      "rolename": "support"
-    }
+    "admin",
+    "guest",
+    "support"
   ]
 }
