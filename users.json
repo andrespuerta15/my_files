@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "username": "p.perez",
+      "email": "pp@mail.com"
+    },
+    {
+      "username": "a.ardila",
+      "email": "aa@mail.com"
+    },
+    {
+      "username": "c.cortes",
+      "email": "cc@correo.com"
+    }
+  ],
+  "usersAmount": 3,
+  "roles": [
+    {
+      "rolename": "admin"
+    },
+    {
+      "rolename": "guest"
+    },
+    {
+      "rolename": "support"
+    }
+  ]
+}
